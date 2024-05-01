@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title-text-gradient {
+  font-weight: 800;
+  background: linear-gradient(
+    270deg,
+    #ff3b6a,
+    #ff3b6a,
+    #ffaf36 52%,
+    #5200ff,
+    #5200ff
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

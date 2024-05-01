@@ -1,0 +1,10 @@
+torch
+reedsolo
+torchvision
+librosa==0.7.1
+imageio
+flask
+tqdm
+IPython
+flask-cors
+matplotlib
